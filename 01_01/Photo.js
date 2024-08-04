@@ -4,6 +4,7 @@
  * @link https://github.com/neptunian/react-photo-gallery
  * The MIT License (MIT)
  * Copyright (c) 2015-2018 Sandra Gonzales
+ * 
  */
 
 import React from "react";
